@@ -1,0 +1,6 @@
+0+Admin+989978763+Coimbra+admin@admin.pt+25,8,1992
+1+Rui+123456789+Coimbra+rui@gmail.com+19,02,2002
+2+Ricardo+109876543+Aveiro+ricardo@gmail.com+20,03,2002
+3+Pedro+345678912+Vila Real+pedro@gmail.com+30,06,1966
+4+Maria+456789123+Fátima+maria@gmail.com+06,10,1968
+5+Beatriz+567891234+Algarve+beatriz@gmail.com+7,12,2002
